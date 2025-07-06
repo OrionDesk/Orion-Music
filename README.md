@@ -47,9 +47,9 @@ Aunque Orion ya es funcional y estable, el viaje apenas comienza. Algunas ideas 
 
 ## 📦 Descargar la última versión
 
-[![Download](https://img.shields.io/badge/⬇️%20Latest%20Release-Orion%20Music-blue?style=for-the-badge)](https://github.com/Orion_desk/Orion-Music/releases)
+[![Download](https://img.shields.io/badge/⬇️%20Latest%20Release-Orion%20Music-blue?style=for-the-badge)](https://github.com/OrionDesk/Orion-Music/releases/tag/v2.0)
 
-Accede siempre a la última versión estable desde la sección de [Releases](https://github.com/Orion_desk/Orion-Music/releases).
+Accede siempre a la última versión estable desde la sección de [Releases](https://github.com/OrionDesk/Orion-Music/releases).
 
 ---
 
