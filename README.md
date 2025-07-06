@@ -38,7 +38,7 @@ Aunque Orion ya es funcional y estable, el viaje apenas comienza. Algunas ideas 
 ## 📸 Capturas de pantalla
 
 <p align="center">
-  <img src="screenshots/01_home.jpg" width="250" alt="Inicio"> &nbsp;
+  <img src="Screenshot_2025-07-05-19-09-49-255_com.orion.music.jpg" width="250" alt="Inicio"> &nbsp;
   <img src="screenshots/02_player.jpg" width="250" alt="Reproductor"> &nbsp;
   <img src="screenshots/03_lyrics.jpg" width="250" alt="Letras sincronizadas">
 </p>
