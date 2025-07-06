@@ -1,26 +1,63 @@
-# Orion-Music
+# 🎧 Orion Music  
+**Music without complications. Just you and your songs.**
 
-🎧 Orion Music - Music without complications
+---
 
-💠 What is it?
-A simple, lovingly made player that prioritizes the pure experience of listening to your music. Orion Music does not try to be the most complete, only the calmest.
+## 💠 ¿Qué es Orion Music?
 
-🔰 What does it offer today?
-* Offline playback.
-* Clean and user-friendly design.
-* Dynamic background that adapts to the album art.
-* MediaStyle notifications, Android 12+ style.
-* Lightweight and fluid, perfect for any device.
+Orion Music es un reproductor de música **simple pero con alma**, creado con cariño para quienes solo quieren disfrutar de su música sin distracciones. No pretende ser el más completo, solo el más tranquilo.
 
-👾 What's in the future?
-Although it is a simple project, Orion Music continues to improve little by little. In the future it is expected:
+---
 
-* Better organization of songs and albums.
-* Redesign and visual improvements.
-* Fixes, performance improvements and own touches.
-* Creation of personalized playlist
-  
-❤️ A small app, but made with intention.
-Orion Music does not seek to be more than necessary. He just wants to accompany you while you enjoy your favorite music.
+## 🔰 ¿Qué ofrece actualmente?
 
-📱Developed by: @Orion_desk
+✔️ Reproducción completamente **offline**  
+✔️ Diseño limpio, minimalista y amigable  
+✔️ Fondo dinámico que se adapta a la carátula del álbum  
+✔️ Notificaciones estilo **MediaStyle**, compatibles con Android 12+  
+✔️ Ligero, rápido y perfecto para cualquier dispositivo  
+✔️ Letras sincronizadas estilo karaoke  
+✔️ Gestión de playlists favoritas y personalizadas  
+✔️ Interfaz adaptativa, incluso en modo horizontal  
+✔️ Transiciones suaves y personalizadas  
+
+---
+
+## 🌌 ¿Qué sigue para Orion Music?
+
+Aunque Orion ya es funcional y estable, el viaje apenas comienza. Algunas ideas en el horizonte:
+
+🎚️ **Ecualizador integrado**: Para personalizar la experiencia de audio.  
+📂 **Gestión avanzada de carpetas**: Organización por estructura de archivos.  
+💾 **Backups y restauración**: Guarda tus playlists y ajustes de forma segura.  
+🖼️ **Editor de metadatos**: Modifica título, artista o carátula desde la app.  
+🎛️ **Soporte para crossfade y gapless**: Transiciones entre canciones sin interrupciones.
+
+---
+
+## 📸 Capturas de pantalla
+
+<p align="center">
+  <img src="screenshots/01_home.jpg" width="250" alt="Inicio"> &nbsp;
+  <img src="screenshots/02_player.jpg" width="250" alt="Reproductor"> &nbsp;
+  <img src="screenshots/03_lyrics.jpg" width="250" alt="Letras sincronizadas">
+</p>
+
+---
+
+## 📦 Descargar la última versión
+
+[![Download](https://img.shields.io/badge/⬇️%20Latest%20Release-Orion%20Music-blue?style=for-the-badge)](https://github.com/Orion_desk/Orion-Music/releases)
+
+Accede siempre a la última versión estable desde la sección de [Releases](https://github.com/Orion_desk/Orion-Music/releases).
+
+---
+
+## ❤️ Hecho con intención
+
+Orion Music no intenta ser más de lo necesario.  
+Solo quiere acompañarte, sin complicaciones, mientras disfrutas de lo que más te gusta: **tu música**.
+
+---
+
+## 📱 Desarrollado con cariño por: [@Orion_desk](https://github.com/Orion_desk)
